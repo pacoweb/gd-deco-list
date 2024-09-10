@@ -1,0 +1,19 @@
+
+.bg 
+{
+  background-image: url(images/bgfinale.jpg);
+  
+  background-position:center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+.rcorners1 {
+  border-radius: 10px;
+  border: 2px solid grey;
+  margin-bottom: 0.5rem;
+}
+
+.bgwhite {
+  background-color: white;
+}
