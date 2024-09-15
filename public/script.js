@@ -14,7 +14,7 @@ async function getlevels()
 }
 
 
-function createLevelElement(levelInfo) 
+function createLevelElement(levelInfo, index) 
 {
   const rowElement = document.getElementById('level_template').content.cloneNode(true).firstElementChild;
 
@@ -25,7 +25,9 @@ function createLevelElement(levelInfo)
   const [levelTitle] = rowElement.querySelectorAll("p.level-title");
   const [levelAuthors] = rowElement.querySelectorAll("p.level-author");
 
-  [iframe.src, levelTitle.textContent, levelAuthors.textContent] = [levelInfo.youtubeEmbed, levelInfo.title, levelInfo.authors];
+  const fullTitle = "# "+ (index +1) + " " +levelInfo.title;
+
+  [iframe.src, levelTitle.textContent, levelAuthors.textContent] = [levelInfo.youtubeEmbed, fullTitle, levelInfo.authors];
 
   return rowElement;
 }
@@ -40,7 +42,7 @@ async function showlevels()
   const levelsElements = [];
 
   levelsInfo.forEach((levelInfo, index) =>{
-    levelsContainer.append(createLevelElement(levelInfo));
+    levelsContainer.append(createLevelElement(levelInfo, index));
     //levelsElements.push(createLevelElement(levelInfo));
   });
 

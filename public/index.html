@@ -34,9 +34,6 @@
         </div>
         <div class="col-8">
 
-          
-          <br />
-          <br />
           <form class="w-100 me-3" role="search">
             <input id="filter" type="search" class="form-control" placeholder="Search levels or authors..." 
                   aria-label="Search">
@@ -47,12 +44,12 @@
         </div>
               
       </div>
-      <br />
     </div>
 
     <br/>
 
     <div class="bg">
+      <br />
       <div class="container" id="levels-container">
 
       </div>
@@ -61,23 +58,27 @@
     <script src="script.js"></script>
 
     <template id="level_template">
-      <div class="row rcorners1 mt level" data-search="">
+      <div class="row mt level" style="margin-bottom: 0.6rem;" data-search="">
           <div class="col-2"></div>
-          <div class="col-4 bgwhite">
-            <iframe width="100%" height="300px" src="" 
-            title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen></iframe>
-          </div>
-          <div class="col-4 bgwhite" >
-            <div>
-              <br />
-              <br />
-              <br />
-              <br />
-              <p class="level-title h2"></p>
-              <p class="level-author h3"></p>
+          <div class="col-8">
+            <div class="row rcorners1">
+              <div class="col-6 bgwhite">
+                <iframe width="100%" height="250px" src="" 
+                title="YouTube video player" frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen></iframe>
+              </div>
+              <div class="col-6 bgwhite" >
+                <div>
+                  <br />
+                  <br />
+                  <br />
+                  <br />
+                  <p class="level-title h2"></p>
+                  <p class="level-author h3"></p>
+                </div>
+              </div>
             </div>
           </div>
           <div class="col-2"></div>

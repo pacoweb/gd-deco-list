@@ -8,12 +8,12 @@
   background-attachment: fixed;
 }
 
-.rcorners1 {
-  border-radius: 10px;
-  border: 2px solid grey;
-  margin-bottom: 0.5rem;
-}
-
 .bgwhite {
   background-color: white;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
+.level-author{
+  font-style: italic;
 }
