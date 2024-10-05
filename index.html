@@ -48,14 +48,14 @@
 
     <br/>
 
-    <div class="bg">
+    <div class="bg-def">
       <br />
-      <div class="container" id="levels-container">
+      <div class="container-fluid" id="levels-container">
 
       </div>
     </div>
 
-    <script src="script.js"></script>
+    <script src="index-script.js"></script>
 
     <template id="level_template">
       <div class="row mt level" style="margin-bottom: 0.6rem;" data-search="">
@@ -63,7 +63,7 @@
           <div class="col-8">
             <div class="row rcorners1">
               <div class="col-6 bgwhite">
-                <iframe width="100%" height="250px" src="" 
+                <iframe width="400rem" height="300rem" src="" 
                 title="YouTube video player" frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 referrerpolicy="strict-origin-when-cross-origin"
@@ -75,8 +75,13 @@
                   <br />
                   <br />
                   <br />
-                  <p class="level-title h2"></p>
+                  <p class="level-title h2">
+                    <a class="level-details" href="#" title="Show more info..">More...</a>
+                  </p>
                   <p class="level-author h3"></p>
+                  <p>
+                   Points <span class="level-points-badge"></span>
+                  </p>
                 </div>
               </div>
             </div>

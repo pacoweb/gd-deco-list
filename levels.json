@@ -5,13 +5,24 @@
         "description":"asdasdasdasdas",
         "authors": "Cherryteam",
         "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
-        "points": 430
+        "points": 430,
+        "authorsInfo":[
+            {
+                "alias":"XXXX",
+                "time" : "04:34"
+            },
+            
+            {
+                "alias":"XXXX",
+                "time" : "08:56"
+            }
+        ]
     },
     {
         "id":2,
         "title":"Edge of Destiny",
         "description":"SADASDASD",
-        "authors": "CDmusic and more",
+        "authors": "CDmusic & more",
         "youtubeEmbed": "https://www.youtube.com/embed/At8bF2pw-qk?",
         "points": 400
     },
@@ -27,7 +38,7 @@
         "id":5,
         "title":"Nemesis",
         "description":"SADASDASD",
-        "authors": "Adrift and more",
+        "authors": "Adrift & more",
         "youtubeEmbed": "https://www.youtube.com/embed/uhJAh-obYes?",
         "points": 375
     },
@@ -59,7 +70,7 @@
         "id":8,
         "title":"Black Flag",
         "description":"SADASDASD",
-        "authors": "Nekon and more",
+        "authors": "Nekon & more",
         "youtubeEmbed": "https://www.youtube.com/embed/RG00YmRelY8?",
         "points":300
     },
@@ -67,7 +78,7 @@
         "id":9,
         "title":"Jigsaw",
         "description":"SADASDASD",
-        "authors": "Nekon and more",
+        "authors": "Nekon & more",
         "youtubeEmbed": "https://www.youtube.com/embed/KgRPhglipsU?",
         "points":380
     },
@@ -75,7 +86,7 @@
         "id":10,
         "title":"Project Nexus",
         "description":"SADASDASD",
-        "authors": "Nekon and more",
+        "authors": "Nekon & more",
         "youtubeEmbed": "https://www.youtube.com/embed/vjd90NVCK1s?",
         "points":379
     },
@@ -83,7 +94,7 @@
         "id":11,
         "title":"Emerald realm",
         "description":"SADASDASD",
-        "authors": "Castrix and more",
+        "authors": "Castrix & more",
         "youtubeEmbed": "https://www.youtube.com/embed/UFvILq5g3hM?",
         "points":330
     },
@@ -107,7 +118,7 @@
         "id":14,
         "title":"Anathema",
         "description":"SADASDASD",
-        "authors": "Nikrodox and more",
+        "authors": "Nikrodox & more",
         "youtubeEmbed": "https://www.youtube.com/embed/k9mLtwdIng4?si=exkNrmlnBvBy-",
         "points":364
     },
@@ -123,7 +134,7 @@
         "id":16,
         "title":"Ruthless",
         "description":"SADASDASD",
-        "authors": "Surjaco and more",
+        "authors": "Surjaco & more",
         "youtubeEmbed": "https://www.youtube.com/embed/VM3GJwWvUo0?",
         "points":340
     },
@@ -133,15 +144,55 @@
         "description":"SADASDASD",
         "authors": "Galofuf",
         "youtubeEmbed": "https://www.youtube.com/embed/m4nLSX3XYLA?",
-        "points":363
+        "points":370
     },
     {
         "id":18,
         "title":"Bismarck",
         "description":"SADASDASD",
-        "authors": "Inex and more",
+        "authors": "Inex & more",
         "youtubeEmbed": "https://www.youtube.com/embed/jICZX77Z82U?",
         "points":330
+    },
+    {
+        "id":19,
+        "title":"The Stero Madness",
+        "description":"Apunch",
+        "authors": "Apunch",
+        "youtubeEmbed": "https://www.youtube.com/embed/gKybauhcp68?",
+        "points":367
+    },
+    {
+        "id":20,
+        "title":"Absurdia",
+        "description":"Apunch",
+        "authors": "BowtieGD & more",
+        "youtubeEmbed": "https://www.youtube.com/embed/Oxu85u2bsRk?",
+        "points":363
+    },
+    {
+        "id":21,
+        "title":"Astralith",
+        "description":"Apunch",
+        "authors": "Geogamer12 & more",
+        "youtubeEmbed": "https://www.youtube.com/embed/2O8EKrXsKlo?",
+        "points":341
+    },
+    {
+        "id":22,
+        "title":"Kingslayer",
+        "description":"Apunch",
+        "authors": "Motheye",
+        "youtubeEmbed": "https://www.youtube.com/embed/gw2T5GSL3v4?",
+        "points":364
+    },
+    {
+        "id":23,
+        "title":"Magistro",
+        "description":"Apunch",
+        "authors": "CHRAPIVA",
+        "youtubeEmbed": "https://www.youtube.com/embed/xCSTww-KgGE?",
+        "points":364
     }
     
         

@@ -24,10 +24,23 @@ function createLevelElement(levelInfo, index)
 
   const [levelTitle] = rowElement.querySelectorAll("p.level-title");
   const [levelAuthors] = rowElement.querySelectorAll("p.level-author");
+  const [levelPoints] = rowElement.querySelectorAll("span.level-points-badge");
+  const [levelAnchor]  = rowElement.querySelectorAll("a.level-details");
 
   const fullTitle = "# "+ (index +1) + " " +levelInfo.title;
+  const url = "level.html?level=" + levelInfo.id;
 
-  [iframe.src, levelTitle.textContent, levelAuthors.textContent] = [levelInfo.youtubeEmbed, fullTitle, levelInfo.authors];
+  [iframe.src
+    , levelAnchor.textContent
+    , levelAuthors.textContent
+    , levelAnchor.href
+    , levelPoints.textContent] 
+  = [levelInfo.youtubeEmbed
+    , fullTitle
+    , levelInfo.authors
+    , url
+    , levelInfo.points
+  ];
 
   return rowElement;
 }

@@ -1,5 +1,5 @@
 
-.bg 
+.bg-def 
 {
   background-image: url(images/bgfinale.jpg);
   
@@ -16,4 +16,13 @@
 
 .level-author{
   font-style: italic;
+}
+
+.level-points-badge{
+  font-size: 1.2rem;
+}
+
+.level-details{
+  text-decoration: none;
+  color:black;
 }
