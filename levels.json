@@ -8,8 +8,8 @@
         "points": 430,
         "authorsInfo":[
             {
-                "alias":"XXXX",
-                "time" : "04:34"
+                "Kivvi":"360",
+                "time" : "00:00"
             },
             
             {
@@ -24,7 +24,82 @@
         "description":"SADASDASD",
         "authors": "CDmusic & more",
         "youtubeEmbed": "https://www.youtube.com/embed/At8bF2pw-qk?",
-        "points": 400
+        "Note":"XXXX",
+        "authorsInfo":[
+            {
+                "CDMusic":"7",
+                "time" : "0:00"
+            },
+            
+            {
+                "avati":"9",
+                "Rynoxius":"9",
+                "time" : "0:10"
+            },
+            
+            {
+                "RealVet":"6,5",
+                "time" : "0:20"
+            },
+
+            {
+                "avati":"8,5",
+                "time" : "0:30"
+            },
+
+            {
+                "RealVet":"8,3",
+                "time" : "0:39"
+            },
+
+            {
+                "RealVet":"6",
+                "More":"6",
+                "time" : "0:47"
+            },
+
+            {
+                "Nickalpogas":"8,5",
+                "time" : "0:54"
+            },
+
+            {
+                "Firy":"8,3",
+                "avati":"8,3",
+                "time" : "0:59"
+            },
+
+            {
+                "Parallax":"7,5",
+                "time" : "1:09"
+            },
+
+            {
+                "Culuc":"9,4",
+                "time" : "1:18"
+            },
+
+            {
+                "Salamander":"7",
+                "time" : "01:47"
+            },
+
+            {
+                "Uriun":"6,5",
+                "time" : "1:52"
+            },
+
+            {
+                "AppleCr":"8,3",
+                "time" : "1:57"
+            },
+
+            {
+                "???":"8",
+                "time" : "Endscreen"
+            }
+
+        ]
     },
     {
         "id":3,
@@ -48,7 +123,57 @@
         "description":"SADASDASD",
         "authors": "Cherryteam",
         "youtubeEmbed": "https://www.youtube.com/embed/ulaXL0SdzZk?",
-        "points":360
+        "Note":"XXXX",
+        "authorsInfo":[
+            {
+                "Synd":"7,5",
+                "time" : "0:00"
+            },
+
+            {
+                "Vinty":"6,5",
+                "time" : "0:09"
+            },
+
+            {
+                "Sauz":"6,5",
+                "time" : "0:19"
+            },
+
+            {
+                "Sauz":"7,5",
+                "Bli":"7,5",
+                "time" : "0:29"
+            },
+
+            {
+                "Xatz":"7,5",
+                "time" : "0:39"
+            },
+
+            {
+                "Kivvi":"9",
+                "time" : "0:50"
+            },
+
+            {
+                "Deadlox":"7",
+                "time" : "1:01"
+            },
+
+            {
+                "Cuaer":"7",
+                "time" : "1:11"
+            },
+
+            {
+                "????":"7",
+                "time" : "Endscreen"
+            }
+
+        ]
+
+
     },
     {
         "id":6,
@@ -56,7 +181,64 @@
         "description":"SADASDASD",
         "authors": "Cherryteam",
         "youtubeEmbed": "https://www.youtube.com/embed/fIlZb48Yyhs?",
-        "points":370
+        "points":370,
+        "authorsInfo":[
+            {
+                "Cuaer":"7",
+                "time" : "0:00"
+            },
+
+            {
+                "Nidro":"6,5",
+                "time" : "0:16"
+            },
+
+            {
+                "Mzero":"7,5",
+                "time" : "0:28"
+            },
+
+            {
+                "Pluff":"6",
+                "time" : "0:40"
+            },
+
+            {
+                "Linus012":"6,5",
+                "time" : "0:48"
+            },
+
+            {
+                "Cynvic":"6",
+                "time" : "0:53"
+            },
+
+            {
+                "VictorinoxX":"6",
+                "time" : "1:04"
+            },
+
+            {
+                "Culuc":"7",
+                "time" : "1:15"
+            },
+
+            {
+                "Kivvi":"8,5",
+                "time" : "1:25"
+            },
+
+            {
+                "Bli":"7",
+                "time" : "1:37"
+            },
+
+            {
+                "Bli":"7,5",
+                "time" : "Endscreen"
+            }
+
+        ]
     },
     {
         "id":7,
@@ -67,20 +249,64 @@
         "points":399
     },
     {
-        "id":8,
-        "title":"Black Flag",
-        "description":"SADASDASD",
-        "authors": "Nekon & more",
-        "youtubeEmbed": "https://www.youtube.com/embed/RG00YmRelY8?",
-        "points":300
-    },
-    {
         "id":9,
         "title":"Jigsaw",
         "description":"SADASDASD",
         "authors": "Nekon & more",
         "youtubeEmbed": "https://www.youtube.com/embed/KgRPhglipsU?",
-        "points":380
+        "points":380,
+        "authorsInfo":[
+
+            {
+                "Chadly":"5,5",
+                "time" : "0:00"
+            },
+
+            {
+                "Viper":"6,5",
+                "time" : "0:15"
+            },
+
+            {
+                "Cynvic":"7,5",
+                "time" : "0:28"
+            },
+
+            {
+                "Helpegasus":"7,5",
+                "time" : "0:35"
+            },
+
+            {
+                "Kivvi":"8",
+                "time" : "0:42"
+            },
+
+            {
+                "Bli":"7,5",
+                "time" : "0:55"
+            },
+
+            {
+                "Motheye":"8",
+                "time" : "1:02"
+            },
+
+            {
+                "Titoalper":"6",
+                "time" : "1:10"
+            },
+
+            {
+                "Cynnix":"XXXX",
+                "time" : "1:18"
+            },
+
+            {
+                "????":"6,5",
+                "time" : "Endscreen"
+            }
+        ]
     },
     {
         "id":10,
@@ -88,7 +314,87 @@
         "description":"SADASDASD",
         "authors": "Nekon & more",
         "youtubeEmbed": "https://www.youtube.com/embed/vjd90NVCK1s?",
-        "points":379
+        "points":379,
+        "authorsInfo":[
+
+            {
+                "AppleCr":"6,5",
+                "time" : "0:00"
+            },
+
+            {
+                "Dolbinator":"7,5",
+                "time" : "0:14"
+            },
+
+            {
+                "Apunch":"7,5",
+                "Preezee":"7,5",
+                "time" : "0:26"
+            },
+
+            {
+                "Ракета":"7",
+                "time" : "0:31"
+            },
+
+            {
+                "GamerKnight750":"9",
+                "time" : "0:38"
+            },
+
+            {
+                "Kivvi":"8",
+                "time" : "0:49"
+            },
+
+            {
+                "Xazt":"8,5",
+                "time" : "0:57"
+            },
+
+            {
+                "CynnixX":"7",
+                "time" : "1:08"
+            },
+
+            {
+                "Helpegasus":"7,5",
+                "time" : "1:12"
+            },
+
+            {
+                "Sycor":"8",
+                "time" : "1:17"
+            },
+
+            {
+                "Destriv":"7,5",
+                "time" : "1:23"
+            },
+
+            {
+                "Airsavage":"6,5",
+                "time" : "1:31"
+            },
+
+            {
+                "Motheye":"9",
+                "time" : "1:41"
+            },
+
+            {
+                "Kr4t":"7",
+                "Fgoll":"7",
+                "time" : "1:47"
+            },
+
+            {
+                "Fallingstar":"9",
+                "time" : "Endscreen"
+            }
+
+        ]
     },
     {
         "id":11,
@@ -96,7 +402,100 @@
         "description":"SADASDASD",
         "authors": "Castrix & more",
         "youtubeEmbed": "https://www.youtube.com/embed/UFvILq5g3hM?",
-        "points":330
+        "points":330,
+        "authorsInfo":[
+            {
+                "Desticy":"6",
+                "time" : "0:00"
+            },
+
+            {
+                "Castrix":"8",
+                "time" : "0:17"
+            },
+
+            {
+                "Arachnus":"7,5",
+                "time" : "0:26"
+            },
+
+            {
+                "Werewolf":"3,5",
+                "time" : "0:33"
+            },
+
+            {
+                "Filaret":"5,5",
+                "time" : "0:41"
+            },
+
+            {
+                "Elmatoswag":"7,5",
+                "time" : "0:49"
+            },
+
+            {
+                "Lasersword":"5",
+                "time" : "1:06"
+            },
+
+            {
+                "Nidro":"5,5",
+                "time" : "1:13"
+            },
+
+            {
+                "Komatic5":"6",
+                "time" : "1:21"
+            },
+
+            {
+                "Zuku":"6,8",
+                "time" : "1:30"
+            },
+
+            {
+                "Viper":"6,8",
+                "Matty":"6,8",
+                "time" : "0:00"
+            },
+
+            {
+                "Bluemoon":"5",
+                "time" : "1:45"
+            },
+
+            {
+                "????":"5",
+                "time" : "1:45"
+            },
+
+            {
+                "Linus012":"5,3",
+                "time" : "2:01"
+            },
+
+            {
+                "Pxidus":"3,5",
+                "time" : "2:09"
+            },
+
+            {
+                "L4mbads":"7",
+                "time" : "2:17"
+            },
+
+            {
+                "Ragnarus":"6,5",
+                "time" : "2:25"
+            },
+
+            {
+                "Culuc":"10",
+                "time" : "2:33"
+            }
+
+        ]
     },
     {
         "id":12,
@@ -107,20 +506,55 @@
         "points":365
     },
     {
-        "id":13,
-        "title":"Vehemence",
-        "description":"SADASDASD",
-        "authors": "TBTeam",
-        "youtubeEmbed": "https://www.youtube.com/embed/9SxqlWV5OxI?",
-        "points":320
-    },
-    {
         "id":14,
         "title":"Anathema",
         "description":"SADASDASD",
         "authors": "Nikrodox & more",
         "youtubeEmbed": "https://www.youtube.com/embed/k9mLtwdIng4?si=exkNrmlnBvBy-",
-        "points":364
+        "points":364,
+        "authorsInfo":[
+        
+            {
+                "Iris":"8",
+                "time" : "0:00"
+            },
+
+            {
+                "Zipibox":"7",
+                "time" : "0:18"
+            },
+
+            {
+                "Nikrodox":"7",
+                "time" : "0:33"
+            },
+
+            {
+                "Eternaswip":"6,5",
+                "time" : "0:59"
+            },
+
+            {
+                "Hybrid":"7,5",
+                "time" : "1:10"
+            },
+
+            {
+                "Zipibox":"7,5",
+                "time" : "1:26"
+            },
+
+            {
+                "Nikrodox":"9",
+                "time" : "1:42"
+            },
+
+            {
+                "Iris":"7,5",
+                "time" : "2:11"
+            }
+
+        ]
     },
     {
         "id":15,
@@ -135,8 +569,77 @@
         "title":"Ruthless",
         "description":"SADASDASD",
         "authors": "Surjaco & more",
-        "youtubeEmbed": "https://www.youtube.com/embed/VM3GJwWvUo0?",
-        "points":340
+        "youtubeEmbed": "https://www.youtube.com/embed/_kjP3z_XLeE?si=Liaw_j8JDFwxLJQv",
+        "points":340,
+        "authorsInfo":[
+
+            {
+                "Destriv":"6,5",
+                "time" : "0:00"
+            },
+
+            {
+                "Viper":"7",
+                "time" : "0:18"
+            },
+
+            {
+                "Aranda":"6",
+                "time" : "0:27"
+            },
+
+            {
+                "Bli":"5,5",
+                "time" : "0:33"
+            },
+
+            {
+                "????":"6,5",
+                "time" : "0:42"
+            },
+
+            {
+                "Genoxide":"5",
+                "time" : "0:50"
+            },
+
+            {
+                "Aranda":"7",
+                "time" : "1:03"
+            },
+
+            {
+                "Boii":"6",
+                "time" : "1:09"
+            },
+
+            {
+                "Nclylix":"8,5",
+                "time" : "1:18"
+            },
+
+            {
+                "Genoxide":"6,5",
+                "time" : "1:21"
+            },
+
+            {
+                "Titoalper":"8",
+                "time" : "1:29"
+            },
+
+            {
+                "Beclay":"8",
+                "time" : "1:27"
+            },
+
+            {
+                "Roselyne":"10",
+                "time" : "Endscreen"
+            }
+
+            
+        ]
     },
     {
         "id":17,
@@ -145,14 +648,6 @@
         "authors": "Galofuf",
         "youtubeEmbed": "https://www.youtube.com/embed/m4nLSX3XYLA?",
         "points":370
-    },
-    {
-        "id":18,
-        "title":"Bismarck",
-        "description":"SADASDASD",
-        "authors": "Inex & more",
-        "youtubeEmbed": "https://www.youtube.com/embed/jICZX77Z82U?",
-        "points":330
     },
     {
         "id":19,
@@ -168,7 +663,45 @@
         "description":"Apunch",
         "authors": "BowtieGD & more",
         "youtubeEmbed": "https://www.youtube.com/embed/Oxu85u2bsRk?",
-        "points":363
+        "points":363,
+        "authorsInfo":[
+
+            {
+                "BowtieGD":"7",
+                "time" : "0:00"
+            },
+
+            {
+                "Smint":"7,5",
+                "time" : "0:10"
+            },
+
+            {
+                "Frapai":"5,5",
+                "time" : "0:20"
+            },
+
+            {
+                "Alaskafx":"7",
+                "time" : "0:27"
+            },
+
+            {
+                "Smartish":"7,5",
+                "time" : "0:34"
+            },
+
+            {
+                "HugoLA":"7,5",
+                "time" : "0:41"
+            },
+
+            {
+                "Classic10":"6,5",
+                "time" : "0:57"
+            }
+
+        ]
     },
     {
         "id":21,
@@ -176,7 +709,85 @@
         "description":"Apunch",
         "authors": "Geogamer12 & more",
         "youtubeEmbed": "https://www.youtube.com/embed/2O8EKrXsKlo?",
-        "points":341
+        "points":341,
+        "authorsInfo":[
+
+            {
+                "xxLocoxx":"7,5",
+                "time" : "0:00"
+            },
+
+            {
+                "skelper":"6,5",
+                "time" : "0:15"
+            },
+
+            {
+                "Lacryma":"8,5",
+                "time" : "0:21"
+            },
+
+            {
+                "PeterNG":"7,5",
+                "time" : "0:30"
+            },
+
+            {
+                "Kytzune":"7",
+                "time" : "0:37"
+            },
+
+            {
+                "Vaulty":"8",
+                "time" : "0:45"
+            },
+
+            {
+                "Subpixel":"7",
+                "time" : "1:00"
+            },
+
+            {
+                "MaxiKD":"6,5",
+                "time" : "1:08"
+            },
+
+            {
+                "Bloomng":"5",
+                "time" : "1:15"
+            },
+
+            {
+                "Wiktord":"6",
+                "time" : "1:22"
+            },
+
+            {
+                "Bpi":"8",
+                "time" : "1:33"
+            },
+
+            {
+                "GloryEX":"8,5",
+                "time" : "1:40"
+            },
+
+            {
+                "Boatbirb":"7",
+                "time" : "1:46"
+            },
+
+            {
+                "Arclila":"8,5",
+                "time" : "1:54"
+            },
+
+            {
+                "????":"7",
+                "time" : "Endscreen"
+            }
+
+        ]
     },
     {
         "id":22,
@@ -193,10 +804,368 @@
         "authors": "CHRAPIVA",
         "youtubeEmbed": "https://www.youtube.com/embed/xCSTww-KgGE?",
         "points":364
-    }
-    
-        
-          
+    },
+    {
+        "id":24,
+        "title":"Sugar High",
+        "description":"Apunch",
+        "authors": "Aquaware and more",
+        "youtubeEmbed": "https://www.youtube.com/embed/xCSTww-KgGE?",
+        "points":364,
+        "authorsInfo":[
 
+            {
+                "Outbite":"7,5",
+                "time" : "0:00"
+            },
+
+            {
+                "Kr4t":"7,5",
+                "time" : "0:15"
+            },
+
+            {
+                "Kazey":"7",
+                "time" : "0:24"
+            },
+
+            {
+                "Mayk":"7",
+                "time" : "0:32"
+            },
+
+            {
+                "Tomi":"7",
+                "time" : "0:39"
+            },
+
+            {
+                "LewinGD":"7",
+                "time" : "0:47"
+            },
+
+            {
+                "Aquaware":"9",
+                "time" : "0:00"
+            }
+        ]
+    },
+    {
+        "id":25,
+        "title":"The Plunge",
+        "description":"aa",
+        "authors": "Dola and more",
+        "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
+        "points": "1",
+        "authorsInfo":[
+
+        {
+            "Shodai":"6,5",
+            "time" : "0:00"
+        },
+
+        {
+            "Arachny":"7",
+            "time" : "X:0:17"
+        },
+
+        {
+            "Adrone":"7,5",
+            "time" : "0:37"
+        },
+
+        {
+            "????":"7",
+            "time" : "Endscreen"
+        }
+
+        ]
+    },
+    {
+        "id":26,
+        "title":"Amethyst",
+        "description":"aa",
+        "authors": "Adrone and more",
+        "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
+        "points": "1",
+        "authorsInfo":[
+
+    {
+        "Jushk":"7",
+        "time" : "0:00"
+    },
+
+    {
+        "Noobypro27":"6,5",
+        "time" : "0:12"
+    },
+
+    {
+        "Roselyne":"8",
+        "time" : "0:30"
+    },
+
+    {
+        "Echo":"6",
+        "time" : "0:35"
+    },
+
+    {
+        "GamerKnight750":"8",
+        "time" : "0:47"
+    },
+
+    {
+        "Uriun":"8,5",
+        "time" : "0:58"
+    },
+
+    {
+        "ADrone":"7",
+        "time" : "1:10"
+    },
+
+    {
+        "Snom":"7",
+        "time" : "Endscreen"
+    }
+
+        ]  
+    },
+    {
+        "id":27,
+        "title":"Crash Game",
+        "description":"aa",
+        "authors": "Cherryteam",
+        "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
+        "points": "1",
+        "authorsInfo":[
+
+            {
+                "Cynnix":"8",
+                "time" : "0:00"
+            },
+
+            {
+                "Dolbinator":"8",
+                "time" : "0:10"
+            },
+
+            {
+                "Zhopolom":"7,5",
+                "time" : "0:16"
+            },
+
+            {
+                "Sycor":"7",
+                "time" : "0:25"
+            },
+
+            {
+                "Ivashka":"8",
+                "time" : "0:32"
+            },
+
+
+            {
+                "Kivvi":"6,5",
+                "time" : "0:39"
+            },
+
+            {
+                "Destriv":"8",
+                "time" : "0:48"
+            },
+
+            {
+                "Vinty":"7",
+                "time" : "1:03"
+            },
+
+            {
+                "Xatz":"8,5",
+                "time" : "1:17"
+            },
+
+            {
+                "Kivvi":"7,5",
+                "time" : "1:25"
+            }
+
+        ]
+    },
+    {
+        "id":28,
+        "title":"Anamensis",
+        "description":"aa",
+        "authors": "Cherryteam",
+        "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
+        "points": "1",
+        "authorsInfo":[
+
+                {
+                    "Levifun":"9,5",
+                    "fawksgd":"9,5",
+                    "time" : "X:XX"
+                },
+
+                {
+                    "Kvazar":"8,5",
+                    "time" : "0:11"
+                },
+
+                {
+                    "Niklit":"8",
+                    "fawksgd":"8",
+                    "time" : "0:22"
+                },
+
+                {
+                    "Dolbinator":"8",
+                    "time" : "0:34"
+                },
+
+                {
+                    "Kivvi":"7,5",
+                    "time" : "0:45"
+                },
+
+                {
+                    "Cataris":"7",
+                    "Winchester":"7",
+                    "time" : "0:56"
+                },
+
+                {
+                    "Heygite":"7,5",
+                    "time" : "1:07"
+                },
+
+                {
+                    "Cynnixx":"7",
+                    "Ivashka":"7",
+                    "time" : "1:18"
+                },
+
+                {
+                    "????":"9",
+                    "time" : "Endscreen"
+                }
+  
+        ]
+    },
+    {      
+        "id":29,
+        "title":"Silent Acropolis",
+        "description":"aa",
+        "authors": "TeamPurgatory",
+        "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
+        "points": "1",
+         "authorsInfo":[
+
+                {
+                    "Valkeyriemaster":"7",
+                    "time" : "0:00"
+                },
+
+                {
+                    "Synage":"8",
+                    "time" : "0:08"
+                },
+
+                {
+                    "MittiRan":"7,5",
+                    "time" : "0:13"
+                },
+
+                {
+                    "Roselyne":"9",
+                    "time" : "0:20"
+                },
+
+                {
+                    "Nextphase":"8,5",
+                    "time" : "0:26"
+                },
+
+                {
+                    "Oldspace":"8,5",
+                    "time" : "0:40"
+                },
+
+                {
+                    "Limit2":"8",
+                    "time" : "0:46"
+                },
+
+                {
+                    "Dyubin":"8,5",
+                    "time" : "0:51"
+                },
+
+                {
+                    "Pes_patron":"8,5",
+                    "time" : "1:00"
+                },
+
+                {
+                    "Uriun":"8",
+                    "time" : "1:07"
+                }
+
+        ]
+    },
+    {      
+        "id":30,
+        "title":"Clock Tower",
+        "description":"aa",
+        "authors": "TeamPurgatory",
+        "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
+        "points": "1",
+        "authorsInfo":[
+
+            {
+                "Deiman":"8",
+                "time" : "0:00"
+            },
+
+            {
+                "Adrone":"7,5",
+                "time" : "0:05"
+            },
+
+            {
+                "Nderr":"7",
+                "time" : "0:16"
+            },
+
+            {
+                "Egg":"7",
+                "time" : "0:24"
+            },
+
+            {
+                "Apstrom":"7",
+                "time" : "0:31"
+            },
+
+            {
+                "Levifun":"7,5",
+                "time" : "0:40"
+            },
+
+            {
+                "Lifecheck":"7",
+                "NextPhaseGD":"7",
+                "time" : "0:48"
+            },
+
+            {
+                "Aquaware":"7,5",
+                "time" : "0:55"
+            }
+
+         ]
+    }
     
 ]

@@ -26,3 +26,9 @@
   text-decoration: none;
   color:black;
 }
+
+img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+}

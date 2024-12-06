@@ -13,6 +13,12 @@ async function getlevels()
   return data.sort((a, b) => b.points - a.points);;
 }
 
+function getYoutubeVideoId(url) 
+{
+  const match = url.match(/embed\/([^?]+)/);
+
+  return match ? match[1] : null;
+}
 
 function createLevelElement(levelInfo, index) 
 {
@@ -20,7 +26,7 @@ function createLevelElement(levelInfo, index)
 
   rowElement.dataset.search = levelInfo.title.toUpperCase() + "," + levelInfo.authors.toUpperCase();
 
-  const [iframe] = rowElement.getElementsByTagName("iframe");
+  const [liteYoutube] = rowElement.getElementsByTagName("lite-youtube");
 
   const [levelTitle] = rowElement.querySelectorAll("p.level-title");
   const [levelAuthors] = rowElement.querySelectorAll("p.level-author");
@@ -29,14 +35,15 @@ function createLevelElement(levelInfo, index)
 
   const fullTitle = "# "+ (index +1) + " " +levelInfo.title;
   const url = "level.html?level=" + levelInfo.id;
+  const youtubeId = getYoutubeVideoId(levelInfo.youtubeEmbed);
 
-  [iframe.src
-    , levelAnchor.textContent
+  liteYoutube.setAttribute("videoid", youtubeId);
+
+  [levelAnchor.textContent
     , levelAuthors.textContent
     , levelAnchor.href
     , levelPoints.textContent] 
-  = [levelInfo.youtubeEmbed
-    , fullTitle
+  = [fullTitle
     , levelInfo.authors
     , url
     , levelInfo.points
