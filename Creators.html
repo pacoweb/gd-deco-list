@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contenedores Rectangulares</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            max-width: 600px;
+            height: 50px;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .container h2 {
+            margin: 0;
+        }
+        .container p {
+            margin: 0;
+            font-size: 12px;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div id="container-list"></div>
+    <script>
+        const data = [
+            { title: "Contenedor 1", subtitle: "Texto adicional 1" },
+            { title: "Contenedor 2", subtitle: "Texto adicional 2" },
+            { title: "Contenedor 3", subtitle: "Texto adicional 3" }
+        ];
+
+        const containerList = document.getElementById('container-list');
+
+        data.forEach(item => {
+            const container = document.createElement('div');
+            container.className = 'container';
+
+            const title = document.createElement('h2');
+            title.textContent = item.title;
+
+            const subtitle = document.createElement('p');
+            subtitle.textContent = item.subtitle;
+
+            container.appendChild(title);
+            container.appendChild(subtitle);
+            containerList.appendChild(container);
+        });
+    </script>
+    <!--<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contenedores Rectangulares</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 80%;
+            max-width: 600px;
+            height: 50px;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #989898;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Contenedor 1</h2>
+    </div>
+    <div class="container">
+        <h2>Contenedor 2</h2>
+    </div>
+    <div class="container">
+        <h2>Contenedor 3</h2>
+    </div>
+</body>
+</html>-->
+</body>
+</html>
+
+
+
+

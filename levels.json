@@ -1,4 +1,5 @@
 [
+
     {
         "id":1,
         "title":"Waterfall",
@@ -6,17 +7,135 @@
         "authors": "Cherryteam",
         "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
         "points": 430,
-        "authorsInfo":[
+        "authorsInfo2":[
             {
-                "Kivvi":"360",
-                "time" : "00:00"
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 7
+                   }
+                ]
             },
-            
+
             {
-                "alias":"XXXX",
-                "time" : "08:56"
+                "time" : "0:10",
+                
+                "subInfo" : [
+                   {
+                    "author":"Elmatoswag",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Mittran",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:28",
+                
+                "subInfo" : [
+                   {
+                    "author":"Helpegasus",
+                    "score": 8
+                   },
+                   {
+                    "author":"Nidro",
+                    "score":8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:36",
+                
+                "subInfo" : [
+                   {
+                    "author":"Konsi",
+                    "score": 9
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:46",
+                
+                "subInfo" : [
+                   {
+                    "author":"Culuc",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:56",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:05",
+                
+                "subInfo" : [
+                   {
+                    "author":"Ivashka",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bli",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:24",
+                
+                "subInfo" : [
+                   {
+                    "author":"Assbreaker",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"????",
+                    "score": 9
+                   }
+                ]
             }
+
         ]
+
+        
     },
     {
         "id":2,
@@ -54,7 +173,6 @@
 
             {
                 "RealVet":"6",
-                "More":"6",
                 "time" : "0:47"
             },
 
@@ -97,6 +215,148 @@
             {
                 "???":"8",
                 "time" : "Endscreen"
+            }
+
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cdmusic",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:10",
+                
+                "subInfo" : [
+                   {
+                    "author":"Avati",
+                    "score": 9
+                   },
+                   {
+                    "author":"Rynoxius",
+                    "score": 9
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:20",
+                
+                "subInfo" : [
+                   {
+                    "author":"Realvet",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:30",
+                
+                "subInfo" : [
+                   {
+                    "author":"Avati",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:39",
+                
+                "subInfo" : [
+                   {
+                    "author":"Realvet",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:47",
+                
+                "subInfo" : [
+                   {
+                    "author":"Realvet",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:54",
+                
+                "subInfo" : [
+                   {
+                    "author":"Nickalpogas",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:59",
+                
+                "subInfo" : [
+                   {
+                    "author":"Firy",
+                    "score": 8
+                   },
+                   {
+                    "author":"Avati",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:18",
+                
+                "subInfo" : [
+                   {
+                    "author":"Culuc",
+                    "score": 9.4
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:47",
+                
+                "subInfo" : [
+                   {
+                    "author":"Salamander",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:52",
+                
+                "subInfo" : [
+                   {
+                    "author":"Uriun",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"????",
+                    "score": 8
+                   }
+                ]
             }
 
         ]
@@ -171,9 +431,112 @@
                 "time" : "Endscreen"
             }
 
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Synd",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:09",
+                
+                "subInfo" : [
+                   {
+                    "author":"Vinty",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:19",
+                
+                "subInfo" : [
+                   {
+                    "author":"Sauz",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:29",
+                
+                "subInfo" : [
+                   {
+                    "author":"Sauz",
+                    "score": 7.5
+                   },
+                   {
+                    "author":"Bli",
+                    "score":7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:39",
+                
+                "subInfo" : [
+                   {
+                    "author":"Xatz",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:50",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 9.3
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:01",
+                
+                "subInfo" : [
+                   {
+                    "author":"Deadlox",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:11",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cuaer",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"????",
+                    "score": 7
+                   }
+                ]
+            }
+
         ]
-
-
     },
     {
         "id":6,
@@ -236,6 +599,129 @@
             {
                 "Bli":"7,5",
                 "time" : "Endscreen"
+            }
+
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cuaer",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:16",
+                
+                "subInfo" : [
+                   {
+                    "author":"Nidro",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:28",
+                
+                "subInfo" : [
+                   {
+                    "author":"Mzero",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:40",
+                
+                "subInfo" : [
+                   {
+                    "author":"Pluff",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:48",
+                
+                "subInfo" : [
+                   {
+                    "author":"Linus012",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:53",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cynvic",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:04",
+                
+                "subInfo" : [
+                   {
+                    "author":"Victorinoxx",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Culuc",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:25",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:37",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bli",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bli",
+                    "score": 7.5
+                   }
+                ]
             }
 
         ]
@@ -306,6 +792,118 @@
                 "????":"6,5",
                 "time" : "Endscreen"
             }
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Chadly",
+                    "score": 5.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Viper",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:28",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cynvic",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:35",
+                
+                "subInfo" : [
+                   {
+                    "author":"Helpegasus",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:42",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:55",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bli",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:02",
+                
+                "subInfo" : [
+                   {
+                    "author":"Motheye",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:10",
+                
+                "subInfo" : [
+                   {
+                    "author":"Titoalper",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:18",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cynnixx",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"????",
+                    "score": 6.5
+                   }
+                ]
+            }
+
         ]
     },
     {
@@ -394,6 +992,181 @@
                 "time" : "Endscreen"
             }
 
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Applecr",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:14",
+                
+                "subInfo" : [
+                   {
+                    "author":"Dolbinator",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:26",
+                
+                "subInfo" : [
+                   {
+                    "author":"Apunch",
+                    "score": 7.5
+                   },
+                   {
+                    "author":"Prezee",
+                    "score":7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:31",
+                
+                "subInfo" : [
+                   {
+                    "author":"Ракета",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:38",
+                
+                "subInfo" : [
+                   {
+                    "author":"GamerKnight750",
+                    "score": 9
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:49",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:57",
+                
+                "subInfo" : [
+                   {
+                    "author":"Xazt",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:08",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cynnixx",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:12",
+                
+                "subInfo" : [
+                   {
+                    "author":"Helpegasus",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:17",
+                
+                "subInfo" : [
+                   {
+                    "author":"Sycor",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:23",
+                
+                "subInfo" : [
+                   {
+                    "author":"Destriv",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:31",
+                
+                "subInfo" : [
+                   {
+                    "author":"AirSavage",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:41",
+                
+                "subInfo" : [
+                   {
+                    "author":"Motheye",
+                    "score": 9
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:47",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kr4t",
+                    "score": 7
+                   },
+                   {
+                    "author":"Fgoll",
+                    "score":7
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"Fallingstar",
+                    "score": 9
+                   }
+                ]
+            }
+
         ]
     },
     {
@@ -457,7 +1230,7 @@
             {
                 "Viper":"6,8",
                 "Matty":"6,8",
-                "time" : "0:00"
+                "time" : "1:37"
             },
 
             {
@@ -493,6 +1266,199 @@
             {
                 "Culuc":"10",
                 "time" : "2:33"
+            }
+
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Desticy",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:17",
+                
+                "subInfo" : [
+                   {
+                    "author":"Castrix",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:26",
+                
+                "subInfo" : [
+                   {
+                    "author":"Arachnus",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:33",
+                
+                "subInfo" : [
+                   {
+                    "author":"Werewolf",
+                    "score": 3.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:41",
+                
+                "subInfo" : [
+                   {
+                    "author":"Filaret",
+                    "score": 5.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:49",
+                
+                "subInfo" : [
+                   {
+                    "author":"Elmatoswag",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:06",
+                
+                "subInfo" : [
+                   {
+                    "author":"Lasersword",
+                    "score": 5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:13",
+                
+                "subInfo" : [
+                   {
+                    "author":"Nidro",
+                    "score": 5.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:26",
+                
+                "subInfo" : [
+                   {
+                    "author":"Komatic5",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:30",
+                
+                "subInfo" : [
+                   {
+                    "author":"Zuku",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:37",
+                
+                "subInfo" : [
+                   {
+                    "author":"Viper",
+                    "score": 7
+                   },
+                   {
+                    "author":"Matty",
+                    "score":7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:45",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bluemoon",
+                    "score": 5
+                   }
+                ]
+            },
+
+            {
+                "time" : "2:01",
+                
+                "subInfo" : [
+                   {
+                    "author":"Linus012",
+                    "score": 5.3
+                   }
+                ]
+            },
+
+            {
+                "time" : "2:09",
+                
+                "subInfo" : [
+                   {
+                    "author":"Pxidus",
+                    "score": 3.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "2:17",
+                
+                "subInfo" : [
+                   {
+                    "author":"Lamb4ds",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "2:25",
+                
+                "subInfo" : [
+                   {
+                    "author":"Ragnarus",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "2:33",
+                
+                "subInfo" : [
+                   {
+                    "author":"Culuc",
+                    "score": 10
+                   }
+                ]
             }
 
         ]
@@ -552,6 +1518,97 @@
             {
                 "Iris":"7,5",
                 "time" : "2:11"
+            }
+
+        ],
+        "authorsInfo2":[
+
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author": "Iris",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:18",
+                
+                "subInfo" : [
+                   {
+                    "author": "Zipibox",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:33",
+                
+                "subInfo" : [
+                   {
+                    "author": "Nikrodox",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:59",
+                
+                "subInfo" : [
+                   {
+                    "author": "Eternaswip",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:10",
+                
+                "subInfo" : [
+                   {
+                    "author": "Hybrid",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:27",
+                
+                "subInfo" : [
+                   {
+                    "author": "Zipibox",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:42",
+                
+                "subInfo" : [
+                   {
+                    "author": "Nikrodox",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "2:11",
+                
+                "subInfo" : [
+                   {
+                    "author": "Hybrid",
+                    "score": 7.5
+                   }
+                ]
             }
 
         ]
@@ -639,6 +1696,151 @@
             }
 
             
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Destriv",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:18",
+                
+                "subInfo" : [
+                   {
+                    "author":"Viper",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:27",
+                
+                "subInfo" : [
+                   {
+                    "author":"Aranda",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:33",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bli",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:42",
+                
+                "subInfo" : [
+                   {
+                    "author":"????",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:50",
+                
+                "subInfo" : [
+                   {
+                    "author":"Genoxide",
+                    "score": 5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:03",
+                
+                "subInfo" : [
+                   {
+                    "author":"Aranda",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:09",
+                
+                "subInfo" : [
+                   {
+                    "author":"Boii",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:18",
+                
+                "subInfo" : [
+                   {
+                    "author":"Nclylix",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:21",
+                
+                "subInfo" : [
+                   {
+                    "author":"Genoxide",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:29",
+                
+                "subInfo" : [
+                   {
+                    "author":"Titoalper",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:27",
+                
+                "subInfo" : [
+                   {
+                    "author":"Beclay",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"Roselyne",
+                    "score": 10
+                   }
+                ]
+            }
+
         ]
     },
     {
@@ -699,6 +1901,85 @@
             {
                 "Classic10":"6,5",
                 "time" : "0:57"
+            }
+
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bowtie",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:10",
+                
+                "subInfo" : [
+                   {
+                    "author":"Smint",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:20",
+                
+                "subInfo" : [
+                   {
+                    "author":"Frapai",
+                    "score": 5.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:27",
+                
+                "subInfo" : [
+                   {
+                    "author":"Alaskafx",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:34",
+                
+                "subInfo" : [
+                   {
+                    "author":"Smartish",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:48",
+                
+                "subInfo" : [
+                   {
+                    "author":"HugoLA",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:57",
+                
+                "subInfo" : [
+                   {
+                    "author":"Classic10",
+                    "score": 6.5
+                   }
+                ]
             }
 
         ]
@@ -787,6 +2068,162 @@
                 "time" : "Endscreen"
             }
 
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Loco",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Skelper",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:28",
+                
+                "subInfo" : [
+                   {
+                    "author":"Lacryma",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:30",
+                
+                "subInfo" : [
+                   {
+                    "author":"Peterng",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:37",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kytzune",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:45",
+                
+                "subInfo" : [
+                   {
+                    "author":"Vaulty",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Subpixel",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:08",
+                
+                "subInfo" : [
+                   {
+                    "author":"Maxigd",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bloomng",
+                    "score": 5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:22",
+                
+                "subInfo" : [
+                   {
+                    "author":"Wiktord",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:33",
+                
+                "subInfo" : [
+                   {
+                    "author":"Bpi",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:40",
+                
+                "subInfo" : [
+                   {
+                    "author":"Gloryex",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:46",
+                
+                "subInfo" : [
+                   {
+                    "author":"Boatbirb",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:54",
+                
+                "subInfo" : [
+                   {
+                    "author":"Arclila",
+                    "score": 8.5
+                   }
+                ]
+            }
+
         ]
     },
     {
@@ -848,6 +2285,85 @@
                 "Aquaware":"9",
                 "time" : "0:00"
             }
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:26",
+                
+                "subInfo" : [
+                   {
+                    "author":"Outbite",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:15",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kr4t",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:24",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kazey",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:32",
+                
+                "subInfo" : [
+                   {
+                    "author":"Mayk",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:37",
+                
+                "subInfo" : [
+                   {
+                    "author":"Tomi",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:47",
+                
+                "subInfo" : [
+                   {
+                    "author":"Lewin",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:55",
+                
+                "subInfo" : [
+                   {
+                    "author":"Aquaware",
+                    "score": 9
+                   }
+                ]
+            }
+
         ]
     },
     {
@@ -858,26 +2374,68 @@
         "youtubeEmbed": "https://www.youtube.com/embed/vXg5nJqRizI?si=aXyOecASMIdLg-ts",
         "points": "1",
         "authorsInfo":[
+            {
+                "Shodai":"6,5",
+                "time" : "0:00"
+            },
+    
+            {
+                "Arachny":"7",
+                "time" : "0:17"
+            },
+    
+            {
+                "Adrone":"7,5",
+                "time" : "0:37"
+            },
+    
+            {
+                "????":"7",
+                "time" : "Endscreen"
+            }
 
-        {
-            "Shodai":"6,5",
-            "time" : "0:00"
-        },
-
-        {
-            "Arachny":"7",
-            "time" : "X:0:17"
-        },
-
-        {
-            "Adrone":"7,5",
-            "time" : "0:37"
-        },
-
-        {
-            "????":"7",
-            "time" : "Endscreen"
-        }
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "00:00",
+                
+                "subInfo" : [
+                   {
+                    "author": "Shodai",
+                    "score": 7
+                   }
+                ]
+            },
+            {
+                "time" : "00:17",
+                
+                "subInfo" : [
+                   {
+                    "author": "Arachny",
+                    "score": 7
+                   }
+                ]
+            },
+            {
+                "time" : "00:37",
+                
+                "subInfo" : [
+                   {
+                    "author": "Adrone",
+                    "score": 7.5
+                   }
+                ]
+            },
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author": "????",
+                    "score": 7
+                   }
+                ]
+            }
 
         ]
     },
@@ -930,7 +2488,97 @@
         "time" : "Endscreen"
     }
 
-        ]  
+        ],
+        "authorsInfo2":[
+
+            {
+                "time" : "00:00",
+                
+                "subInfo" : [
+                   {
+                    "author": "Jushk",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:12",
+                
+                "subInfo" : [
+                   {
+                    "author": "NoobyPro27",
+                    "score": 6.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:30",
+                
+                "subInfo" : [
+                   {
+                    "author": "Roselyne",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:35",
+                
+                "subInfo" : [
+                   {
+                    "author": "Echo",
+                    "score": 6
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:47",
+                
+                "subInfo" : [
+                   {
+                    "author": "GamerKnight750",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:58",
+                
+                "subInfo" : [
+                   {
+                    "author": "Uriun",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "01:10",
+                
+                "subInfo" : [
+                   {
+                    "author": "Adrone",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author": "Snom",
+                    "score": 7
+                   }
+                ]
+            }
+        ]
     },
     {
         "id":27,
@@ -990,6 +2638,118 @@
             {
                 "Kivvi":"7,5",
                 "time" : "1:25"
+            }
+
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "00:00",
+                
+                "subInfo" : [
+                   {
+                    "author": "Cynnix",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:10",
+                
+                "subInfo" : [
+                   {
+                    "author": "Dolbinator",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:16",
+                
+                "subInfo" : [
+                   {
+                    "author": "Zhopolom",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:25",
+                
+                "subInfo" : [
+                   {
+                    "author": "Sycor",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:32",
+                
+                "subInfo" : [
+                   {
+                    "author": "Ivashka",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:39",
+                
+                "subInfo" : [
+                   {
+                    "author": "Kivvi",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "00:48",
+                
+                "subInfo" : [
+                   {
+                    "author": "Destriv",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:03",
+                
+                "subInfo" : [
+                   {
+                    "author": "Vinty",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:17",
+                
+                "subInfo" : [
+                   {
+                    "author": "Xatz",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:25",
+                
+                "subInfo" : [
+                   {
+                    "author": "Kivvi",
+                    "score": 7.5
+                   }
+                ]
             }
 
         ]
@@ -1052,6 +2812,125 @@
                     "time" : "Endscreen"
                 }
   
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Levifun",
+                    "score": 9.5
+                   },
+                   {
+                    "author":"Fawks",
+                    "score":9.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:11",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kvzar",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:22",
+                
+                "subInfo" : [
+                   {
+                    "author":"Niklit",
+                    "score": 8.5
+                   },
+
+                   {
+                    "author":"Fawks",
+                    "score":8
+                   }
+
+                ]
+            },
+
+            {
+                "time" : "0:24",
+                
+                "subInfo" : [
+                   {
+                    "author":"Dolbinator",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:45",
+                
+                "subInfo" : [
+                   {
+                    "author":"Kivvi",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:56",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cataris",
+                    "score": 7
+                   },
+                   {
+                    "author":"Winchester",
+                    "score":7
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:07",
+                
+                "subInfo" : [
+                   {
+                    "author":"Heygite",
+                    "score":7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:18",
+                
+                "subInfo" : [
+                   {
+                    "author":"Cynnix",
+                    "score": 8.5
+                   },
+                   {
+                    "author":"Ivashka",
+                    "score":7
+                   }
+                ]
+            },
+
+            {
+                "time" : "Endscreen",
+                
+                "subInfo" : [
+                   {
+                    "author":"????",
+                    "score": 9
+                   }
+                ]
+            }
+
         ]
     },
     {      
@@ -1113,6 +2992,118 @@
                     "time" : "1:07"
                 }
 
+        ],
+        "authorsInfo2":[
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author": "Valkeyriemaster",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:08",
+                
+                "subInfo" : [
+                   {
+                    "author": "Synage",
+                    "score":8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:13",
+                
+                "subInfo" : [
+                   {
+                    "author": "MittiRan",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:20",
+                
+                "subInfo" : [
+                   {
+                    "author": "Roselyne",
+                    "score": 9
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:26",
+                
+                "subInfo" : [
+                   {
+                    "author":"NextPhase",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:40",
+                
+                "subInfo" : [
+                   {
+                    "author":"OldSpace",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:46",
+                
+                "subInfo" : [
+                   {
+                    "author":"Limit2",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:51",
+                
+                "subInfo" : [
+                   {
+                    "author":"Dyubin",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:00",
+                
+                "subInfo" : [
+                   {
+                    "author":"Pespatron",
+                    "score": 8.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "1:07",
+                
+                "subInfo" : [
+                   {
+                    "author":"Uriun",
+                    "score": 8
+                   }
+                ]
+            }
+
         ]
     },
     {      
@@ -1165,7 +3156,102 @@
                 "time" : "0:55"
             }
 
+         ],
+         "authorsInfo2":[
+
+            {
+                "time" : "0:00",
+                
+                "subInfo" : [
+                   {
+                    "author": "Deiman",
+                    "score": 8
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:05",
+                
+                "subInfo" : [
+                   {
+                    "author": "Adrone",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:16",
+                
+                "subInfo" : [
+                   {
+                    "author": "Nderr",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:24",
+                
+                "subInfo" : [
+                   {
+                    "author": "Egg",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:31",
+                
+                "subInfo" : [
+                   {
+                    "author": "Apstrom",
+                    "score": 7
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:40",
+                
+                "subInfo" : [
+                   {
+                    "author": "Levifun",
+                    "score": 7.5
+                   }
+                ]
+            },
+
+            {
+                "time" : "0:48",
+                
+                "subInfo" : [
+                   {
+                    "author": "Lifecheck",
+                    "score": 7
+                   },
+                   {
+                    "author":"NextPhaseGD",
+                    "score":7
+                   }
+
+                ]
+            },
+
+            {
+                "time" : "0:55",
+                
+                "subInfo" : [
+                   {
+                    "author": "Aquaware",
+                    "score": 7.5
+                   }
+                ]
+            }
          ]
     }
-    
+
 ]
